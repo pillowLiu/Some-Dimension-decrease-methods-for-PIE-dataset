@@ -1,0 +1,6 @@
+LDA 2D - All: 0.19
+LDA 2D - My Photo: 0.50
+LDA 3D - All: 0.37
+LDA 3D - My Photo: 1.00
+LDA 9D - All: 0.84
+LDA 9D - My Photo: 1.00

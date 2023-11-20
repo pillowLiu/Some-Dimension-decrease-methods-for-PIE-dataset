@@ -1,0 +1,6 @@
+PCA 40 - Others: 0.93
+PCA 40 - Own: 1.00
+PCA 80 - Others: 0.95
+PCA 80 - Own: 1.00
+PCA 200 - Others: 0.96
+PCA 200 - Own: 1.00

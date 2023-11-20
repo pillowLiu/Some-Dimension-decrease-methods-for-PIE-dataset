@@ -1,0 +1,9 @@
+Accuracy for Raw pics, C=0.01: 0.9105691057
+Accuracy for PCA 80 components, C=0.01: 0.9739837398
+Accuracy for PCA 200 components, C=0.01: 0.9975609756
+Accuracy for Raw pics, C=0.1: 0.9040650407
+Accuracy for PCA 80 components, C=0.1: 0.8894308943
+Accuracy for PCA 200 components, C=0.1: 0.8894308943
+Accuracy for Raw pics, C=1: 0.7577235772
+Accuracy for PCA 80 components, C=1: 0.7414634146
+Accuracy for PCA 200 components, C=1: 0.7520325203

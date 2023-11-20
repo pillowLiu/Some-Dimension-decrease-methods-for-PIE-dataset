@@ -1,0 +1,3 @@
+LDA 2D - Accuracy: 0.05
+LDA 3D - Accuracy: 0.04
+LDA 9D - Accuracy: 0.11
