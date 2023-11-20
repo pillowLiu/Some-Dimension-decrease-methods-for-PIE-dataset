@@ -34,6 +34,3 @@ Face images should be in a PIE folder, with numbered subfolders for each person.
 
 ## Contact
 If you have any questions, feel free to reach out to me at e0954758@u.nus.edu.
-
-Best,
-Liu Zhengtao
